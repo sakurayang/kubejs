@@ -1,0 +1,21 @@
+{
+	"kubejs": {
+		"prefix": "kubejs",
+		"body": [
+			"/**\r",
+			" * ${1:Description}\r",
+			" * @authors ${2:Your Name}\r",
+			" * @date    $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE\r",
+			" * @version ${3:1.0.0}\r",
+			" * @minecraft ${4:1.20.1}\r",
+			" * @modloader ${5:modloader}\r",
+			" * @requirements ${6:requires}\r",
+			" */\r",
+			"\r",
+			"${7:eventName}(event => {\r",
+			"    $0\r",
+			"})"
+		],
+		"description": "description for kubejs"
+	}
+}
